@@ -7,4 +7,4 @@
 | Hard disk 	  |   (256 GB / NVME)                                |
 |Graphic card 	|   Intel UHD Graphics 620                         |
 
-Everything works fine except wifi/bluetooth, ive added Horndis.kext to the kext folder to fix that (USB tethering) or you can just get the supported wifi/BT adapter online.
+Everything works fine except wifi/bluetooth, ive added Horndis.kext to the kext folder to fix that (USB tethering) or you can just get the supported wifi/BT adapter online. **generate a new serial**
