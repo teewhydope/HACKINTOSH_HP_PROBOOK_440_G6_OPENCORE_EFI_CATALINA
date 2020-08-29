@@ -9,9 +9,9 @@
 
 *Everything works fine except wifi/bluetooth, ive added Horndis.kext to the kext folder to fix that (USB tethering) or you can just get the supported wifi/BT adapter online. 
 
-**generate a new serial** 
+*make sure you generate a new serial
 
-Will ikely work on 430 and 440 G6 probooks
+*Will likely work on 430 and 440 G6 probooks
 
 **Credits:** 
 
