@@ -1,3 +1,7 @@
+**FOR BIG SURE, CHECK HERE https://github.com/teewhydope/HACKINTOSH_HP_440_G6_EFI_OPENCORE_BIG_SUR**
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 | Specification | 	Details                                        |
 |-------------- |--------------------------------------------------|
 | Model         |   HP Probook 430/440/450 G6 Laptops              |
@@ -7,11 +11,14 @@
 | Hard disk 	  |   (256 GB / NVME)                                |
 |Graphic card 	|   Intel UHD Graphics 620                         |
 
+--------------------------------------------------------------------------------------------------------------------------------
 *Everything works fine except wifi/bluetooth, ive added Horndis.kext to the kext folder to fix that (USB tethering) or you can just get the supported wifi/BT adapter online. 
 
 *make sure you generate a new serial
 
 *Will likely work on 430 and 440 G6 probooks
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 **Credits:** 
 
